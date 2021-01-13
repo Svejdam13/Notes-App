@@ -54,7 +54,8 @@ body {
   border: none;
 }
 .main{
-  padding: 20px;
+  padding: 30px;
+  background-color:#fff;
 }
 .hidden{
   display: none;
